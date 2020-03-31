@@ -1,0 +1,11 @@
+{
+    "server": {
+      "port": "3900"
+    },
+    "dbUrl": "mongodb://localhost:27017/mail",
+    "staticFilesUrl": "http://localhost:3900/static/",
+    "staticPrintUrl": "http://localhost:3900/printpdf/",
+    "secretKey": "mail-api-access",
+    "uploadUrl": "public/uploads/",
+    "uploadPDFUrl": "public/pdf/"
+  }
